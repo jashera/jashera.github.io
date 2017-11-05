@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 Welcome to my page.  Please be patient while i build it.  Eventually it may be of interest!
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sem leo, posuere in neque non, molestie laoreet mauris. Nam ornare imperdiet feugiat. Sed mollis placerat varius. Praesent posuere tempor orci et faucibus. Integer quis finibus neque. Pellentesque aliquam ac nisi at rhoncus. Suspendisse dui diam, eleifend tempor purus sed, finibus volutpat eros. Sed placerat nec eros sit amet tempus.
 
 
