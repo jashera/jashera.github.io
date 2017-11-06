@@ -8,11 +8,11 @@ redirect_from:
 
 2017 -  Conference Bursary - [EPS Grindley Grant](http://www.eps.ac.uk/index.php/grindley-grants-for-conference-attendance)
 
-2016 - Conference Bursary, European Conference on Visual Perception, Barcelona
+2016 - Conference Bursary - European Conference on Visual Perception, Barcelona
 
 2016 -  Research Bursary - [Psypag](http://www.psypag.co.uk/bursaries-2/)
 
-2016 -  Seedcorn Funding Grant [ESSEXLab](https://www1.essex.ac.uk/essexlab/) University of Essex 
+2016 -  Seedcorn Funding Grant - [ESSEXLab](https://www1.essex.ac.uk/essexlab/) University of Essex 
 
 2016 - Departmental Ph.D Scholarship, Department of Psychology, University of Essex
 
