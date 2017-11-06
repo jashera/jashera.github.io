@@ -11,10 +11,8 @@ topic, as it is still not yet fully understood where learning is taking place, a
 date: 2017-03-01
 venue: 'PsyPAG Quarterly'
 paperurl: 'http://www.psypag.co.uk/wp-content/uploads/2013/06/PsyPag-102.pdf#page=47'
-citation: 'Asher, Jordi M (2017). "Perceptual learning for clinical populations with visual deficits after stroke." <i>Psypag Quarterly</i>.,102: 45-50.'
+citation: 'Asher, Jordi M (2017). "Perceptual learning for clinical populations with visual deficits after stroke." <i>Psypag Quarterly</i>.,102: 45-50. [Download paper here](http://www.psypag.co.uk/wp-content/uploads/2013/06/PsyPag-102.pdf#page=47)'
 ---
-
-[Download paper here](http://www.psypag.co.uk/wp-content/uploads/2013/06/PsyPag-102.pdf#page=47)
 
 Asher, Jordi M (2017). "Perceptual learning for clinical populations with visual deficits after stroke." <i>Psypag Quarterly</i>.,102: 45-50.
 
