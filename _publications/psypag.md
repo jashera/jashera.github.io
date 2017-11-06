@@ -7,7 +7,7 @@ Yet, it is reported approximately 60 per cent of stroke survivors will have a pe
 Recent research indicates that the visual system can learn new information, and improvements in perception
 are observed as a result of training. Perceptual training, therefore, may be a potential tool for visual
 rehabilitation. However, the rehabilitation of the visual areas through perceptual learning is a controversial
-topic, as it is still not yet fully understood where learning is taking place, and what, exactly, is being learned.<\i>'
+topic, as it is still not yet fully understood where learning is taking place, and what, exactly, is being learned.</i>'
 date: 2017-03-01
 venue: 'PsyPAG Quarterly'
 paperurl: 'http://www.psypag.co.uk/wp-content/uploads/2013/06/PsyPag-102.pdf#page=47'
@@ -16,6 +16,6 @@ citation: 'Asher, Jordi M (2017). "Perceptual learning for clinical populations 
 
 [Download paper here](http://www.psypag.co.uk/wp-content/uploads/2013/06/PsyPag-102.pdf#page=47)
 
-Recommended citation: Asher, Jordi M (2017). "Perceptual learning for clinical populations with visual deficits after stroke." <i>Psypag Quarterly</i>.,102: 45-50.
+Asher, Jordi M (2017). "Perceptual learning for clinical populations with visual deficits after stroke." <i>Psypag Quarterly</i>.,102: 45-50.
 
 
