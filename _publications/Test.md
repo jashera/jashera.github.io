@@ -8,9 +8,7 @@ output: html_document
 <<insertHTML:[test.html]
 
 etc, etc, etc
-
-```{r, echo=FALSE}
-htmltools::includeHTML("test.html")
-```
-
 etc, etc, etc
+
+
+<p style="text-decoration:underline;"><a href="/test.html">Boo!!</a></p>
