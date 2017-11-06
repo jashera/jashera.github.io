@@ -1,7 +1,7 @@
 ---
 title: "Perceptual learning for clinical populations with visual deficits after stroke"
 collection: publications
-permalink: /publication/psypagQ
+permalink: /publication/JOV_Mo
 excerpt: '<i>Improvements after training on global motion coherence tasks at high, broad and low spatial frequencies appear to be restricted to  low frequency information, consistent with the spatial frequency tuning of visual motion area (V5).</i>'
 date: 2017-10-6
 venue: 'In Review'
