@@ -6,7 +6,7 @@ redirect_from:
   - /awards
 ---
 
-2017 -  Conference Bursary [Grindley Grant](http://www.eps.ac.uk/index.php/grindley-grants-for-conference-attendance)
+2017 -  Conference Bursary - [EPS Grindley Grant](http://www.eps.ac.uk/index.php/grindley-grants-for-conference-attendance)
 
 2016 - Conference Bursary, European Conference on Visual Perception, Barcelona
 
