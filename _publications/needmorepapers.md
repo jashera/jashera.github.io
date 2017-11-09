@@ -2,7 +2,7 @@
 title: "Need more papers!"
 collection: publications
 permalink: /publication/needmorepapers
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: 'Dreaming of Publications is a natural state for aspiring PhDs.'
 date: 2017-11-09
 venue: 'Journal of Struggling PhDs'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
