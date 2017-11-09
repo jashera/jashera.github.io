@@ -1,7 +1,7 @@
 ---
-title: "Paper Title Number 3"
+title: "Need more papers!"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/needmorepapers
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2015-10-01
 venue: 'Journal 1'
@@ -12,4 +12,4 @@ This paper is about the number 3. The number 4 is left for future work.
 
 [Download paper here](http://academicpages.github.io/files/paper3.pdf)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Recommended citation: Jordi M Asher, (2017). "Need more papers." <i>Dreaming 1</i>. 1(3).
