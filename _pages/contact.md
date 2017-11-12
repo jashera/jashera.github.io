@@ -13,11 +13,11 @@ Department of Psychology,
 
 Wivenhoe Park, 
 
-Colchester CO4 3SQ
+Colchester 
 
-United Kingdom
+CO4 3SQ, United Kingdom
 
 
 
-[Email me:](mailto:jashera@essex.ac.uk)
+[Email me: jashera@essex.ac.uk](mailto:jashera@essex.ac.uk)
 
