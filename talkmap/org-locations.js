@@ -14,4 +14,9 @@ var addressPoints = [
     52.520007, 
    13.404954,
 ]
+[
+   "Peebles, Scotland",
+   55.653071, 
+   -3.193642,
+]
 ];
