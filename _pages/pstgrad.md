@@ -1,15 +1,16 @@
----
-layout: archive
-title: "Postgrad Resources"
-permalink: /pgrad/
-author_profile: true
----
----
+
+<html>
+<head>
+<title>
+A Simple HTML Document
+</title>
+</head>
+<body>
+<p>This page is under contstruction</p>
 
 
-{% include base_path %}
+Click <a href="http://www.psypag.co.uk/wp-content/uploads/2015/09/30th-Anniversary-Book.pdf">here</a> to go to the PsyPAG Guide for Psychology Postgraduates.
 
-
-{% for post in site.postgrad %}
-  {% include archive-single.html %}
-{% endfor %}
+  
+</body>
+</html>
