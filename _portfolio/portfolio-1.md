@@ -1,5 +1,5 @@
 title: "PsyPag"
-excerpt: "PsyPag<br/><img src='/images/psypag.JPG'>"
+excerpt: "PsyPag<br/><img src='/images/psypagcov.JPG'>"
 
 Inline-style: 
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1"
