@@ -24,8 +24,8 @@ main:
 #  - title: "CV"
 #   url: /cv/
     
-  - title: "Postgraduate Resources"
-    url: /postgrad/
+  - title: "Postgrad Resources"
+    url: /pstgrad/
 
   - title: "Contact"
     url: /contact/   
