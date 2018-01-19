@@ -15,8 +15,8 @@ main:
   - title: "Awards"
     url: /awards/   
     
- # - title: "Portfolio"
- #   url: /portfolio/
+  - title: "Postgrad Resources"
+    url: /portfolio/
         
 #  - title: "Blog Posts"
 #    url: /year-archive/
@@ -24,8 +24,8 @@ main:
 #  - title: "CV"
 #   url: /cv/
     
-  - title: "Postgrad Resources"
-    url: /pstgrad/
+#  - title: "Postgrad Resources"
+#   url: /pstgrad/
 
   - title: "Contact"
     url: /contact/   
