@@ -2,7 +2,7 @@
 <html>
 <head>
 <title>
-A Simple HTML Document
+This page will soon become a postgraduate resources portal
 </title>
 </head>
 <body>
