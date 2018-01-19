@@ -3,7 +3,7 @@ title: "--Under construction--"
 Here's our logo (hover to see the title text):
 
 Inline-style: 
-![alt text](https://github.com/jashera/jashera.github.io/blob/master/images/psypaglogo.jpg|width=100) "Logo Title Text 1")
+![alt text](https://github.com/jashera/jashera.github.io/blob/master/images/psypaglogo.jpg| width=100) "Logo Title Text 1")
 
 Reference-style: 
 ![alt text][logo]
