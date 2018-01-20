@@ -1,6 +1,6 @@
 
 ---
-title: "External reinforcement is needed for perceptual learning of global motion."
+title: "Publications"
 collection: publications
 type: "Publications"
 permalink: /publications/index.md
