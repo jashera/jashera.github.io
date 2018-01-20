@@ -14,5 +14,5 @@ author_profile: true
 ## Posters
 
 * Efficient encoding of binocular disparity predicts sensitivity to depth differences, [Vision Sciences Society](https://www.visionsciences.org/), Florida May 2017  ([Abstract](http://jov.arvojournals.org/article.aspx?articleid=2651940)) ([Poster](http://10.7490/f1000research.1114661.1))    
-* Normal lateral interactions, but increased contrast sensitivity, in migraine with aura', [Applied Vision Association](http://www.theava.net/) London, December 2016 % ([Abstract](http://journals.sagepub.com/doi/abs/10.1177/0301006617710756)) ([Poster](https://f1000research.com/posters/6-1455))  
+* Normal lateral interactions, but increased contrast sensitivity, in migraine with aura', [Applied Vision Association](http://www.theava.net/) London, December 2016 ([Abstract](http://journals.sagepub.com/doi/abs/10.1177/0301006617710756)) ([Poster](https://f1000research.com/posters/6-1455))  
 * Perceptual learning for global motion is tuned for spatial frequency', [European Conference on Visual Perception[(http://www.ub.edu/ecvp/), Barcelona,  August 2016 ([Abstract](http://journals.sagepub.com/doi/abs/10.1177/0301006616671273))    
