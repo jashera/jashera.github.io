@@ -1,6 +1,6 @@
 title: "Conferences"
-permalink: /_/
+permalink: /conferences/
 author_profile: true
-redirect_from:   - /awards
+redirect_from:   - /conferences
 ---
 Test
