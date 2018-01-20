@@ -5,7 +5,7 @@ comments: false
 ---
 
 ## Publications  
-%\noindent
+
 * [Asher, JM, (2017), Perceptual learning for clinical populations with visual deficits after stroke", \textit{Psypag Quarterly},102: 45-50](http://www.psypag.co.uk/wp-content/uploads/2013/06/PsyPag-102.pdf#page=47)
 *  Asher, JM, Romei V, Hibbard PB, (in preparation) OnPerceptual learning and transfer of global motion  
 Asher, JM, O'Hare L, Romei V, Hibbard PB, (under review), Normal lateral interactions, but increased contrast sensitivity, in migraine with aura
