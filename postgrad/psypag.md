@@ -12,4 +12,4 @@ permalink: /posgrad/psypag.md
 
 
 
-PsyPAG is a national organisation for all psychology postgraduates based at UK Institutions. 
+[PsyPAG](http://www.psypag.co.uk/) is a national organisation for all psychology postgraduates based at UK Institutions. 
