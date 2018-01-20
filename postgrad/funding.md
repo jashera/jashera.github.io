@@ -2,7 +2,7 @@
 title: "Funding"
 collection: postgrad
 type: "Postgraduate Resources"
-permalink: /posgrad/funding.md
+permalink: /postgrad/funding.md
 ---
 
 ---
