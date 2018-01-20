@@ -1,4 +1,13 @@
-## Publications  
+
+---
+title: "External reinforcement is needed for perceptual learning of global motion."
+collection: publications
+type: "Publications"
+permalink: /publications/index.md
+
+---
+
+## Articles
 
 * [Asher, JM, (2017), Perceptual learning for clinical populations with visual deficits after stroke", *Psypag Quarterly*,102: 45-50](http://www.psypag.co.uk/wp-content/uploads/2013/06/PsyPag-102.pdf#page=47)
 *  Asher, JM, Romei V, Hibbard PB, (in preparation) On perceptual learning and transfer of global motion  
