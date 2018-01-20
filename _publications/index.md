@@ -16,7 +16,7 @@ Asher, JM, O'Hare L, Romei V, Hibbard PB, *(under review)*, Normal lateral inter
 * Hibbard PB, Asher, JM, *(in preparation)*, The effect of edge separation and orientation on the perception of depth in anticorrelated random dot stereograms" 
 
 
-# Published Abstracts
+## Published Abstracts
 
 * [Asher, JM, Romei V, Hibbard PB, (2016) "Perceptual learning for global motion is tuned for spatial frequency", *Perception*, Vol 45(2) suppl, 317-318](https://doi.org/10.1177/0301006616671273)
 * [Asher, JM, Romei V, Hibbard PB, (2017) "External feedback is needed for perceptual learning of global motion", *Perception*, Vol 46(2) suppl, 230](https://doi.org/10.1177/0301006616674873)
