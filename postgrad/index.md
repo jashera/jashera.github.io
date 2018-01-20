@@ -9,12 +9,10 @@ This page is under construction. But on this page I will post links to resources
 
 
 ## Start
+* [Psypag](http://www.psypag.co.uk) - PsyPAG is a national organisation for all psychology postgraduates based at UK Institutions. 
 
 
-
-
-
-
+[comment]: <> (
 ## Podcast
 
 * [JavaScript Jabber (9/2017)](https://devchat.tv/js-jabber/jsj-bonus-web-apps-linux-jeremy-likness-michael-crump) - Web Apps on Linux with Jeremy Likness and Michael Crump
@@ -38,4 +36,4 @@ This page is under construction. But on this page I will post links to resources
 ## Publications
 
 * [Announcing Windows Template Studio (05/2017)](https://blogs.windows.com/buildingapps/2017/05/16/announcing-windows-template-studio/) 
-* [Calling Windows 10 APIs From a Desktop Application (01/2017)](https://blogs.windows.com/buildingapps/2017/01/25/calling-windows-10-apis-desktop-application/)
+* [Calling Windows 10 APIs From a Desktop Application (01/2017)](https://blogs.windows.com/buildingapps/2017/01/25/calling-windows-10-apis-desktop-application/))
