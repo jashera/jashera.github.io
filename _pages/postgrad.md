@@ -4,7 +4,7 @@ permalink: /postgrad/
 author_profile: true
 ---
 
-# Funding... show me the money!!!  
+### Funding... show me the money!!!  
 * [PsyPAG](http://www.psypag.co.uk/) is a national organisation for all psychology postgraduates based at UK Institutions.  
 .. Travel Grants, Research grants, Workshop grants  
 .. Plus you get to write articles for the PsyPAG quarterly  
@@ -14,7 +14,7 @@ author_profile: true
 
 
 
-## Software... to make life easier  
+### Software... to make life easier  
 * [Roboform](https://www.roboform.com/promotions/college)  
 .. Excellent password manager and form filler.  
 .. free with a university, school, or college address  
