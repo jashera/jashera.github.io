@@ -1,6 +1,5 @@
 ---
-layout: page
-title: Underdevelopment
+title: "Postgraduate Resources"
 tags: [postgraduate, graduate, resources, help]
 comments: false
 ---
