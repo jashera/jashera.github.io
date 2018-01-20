@@ -10,7 +10,7 @@ author_profile: true
 .. Plus you get to write articles for the PsyPAG quarterly  
 
 * [Experimental Psychology Society](https://eps.ac.uk/)  
-..* Small Grants, Study Visit Grants, Research Workshops, Postgraduate and Postdoctoral Workshops, Grindley Grant, Undergraduate Research Bursary, EPS Carers Grant.  
+.. Small Grants, Study Visit Grants, Research Workshops, Postgraduate and Postdoctoral Workshops, Grindley Grant, Undergraduate Research Bursary, EPS Carers Grant.  
 
 
 
