@@ -1,8 +1,7 @@
 ---
 layout: page
-title: Publicattions
+title: Publications
 comments: false
----
 
 ## Publications  
 
