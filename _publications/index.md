@@ -1,7 +1,3 @@
-
-layout: page
-comments: false
-
 ## Publications  
 
 * [Asher, JM, (2017), Perceptual learning for clinical populations with visual deficits after stroke", *Psypag Quarterly*,102: 45-50](http://www.psypag.co.uk/wp-content/uploads/2013/06/PsyPag-102.pdf#page=47)
