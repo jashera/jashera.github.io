@@ -1,5 +1,5 @@
 title: "Conferences"
-permalink: /conferences/
+permalink: /_/
 author_profile: true
 redirect_from:   - /awards
 ---
