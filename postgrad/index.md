@@ -12,8 +12,7 @@ This page is under construction. But on this page I will post links to resources
 * [Psypag](http://www.psypag.co.uk) - PsyPAG is a national organisation for all psychology postgraduates based at UK Institutions. 
 
 
-[comment]: <> (
-## Podcast
+[comment]: <> (## Podcast)
 
 * [JavaScript Jabber (9/2017)](https://devchat.tv/js-jabber/jsj-bonus-web-apps-linux-jeremy-likness-michael-crump) - Web Apps on Linux with Jeremy Likness and Michael Crump
 * [Eat, Sleep, Code (8/2017)](https://developer.telerik.com/content-types/podcast/azure-for-developers/) - Azure for Developers
