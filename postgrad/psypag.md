@@ -7,7 +7,7 @@ permalink: /posgrad/psypag.md
 
 ---
 
-<br/><img src='/images/psypaglogo.jpg'>"
+<br/><img src='/images/psypaglogo.jpg'>"  
 
 
 
