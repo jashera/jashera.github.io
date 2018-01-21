@@ -43,5 +43,12 @@ author_profile: true
 
 ### Useful guides and tutorials
 * [Dr Peter Scarfe's](https://www.reading.ac.uk/Psychology/About/staff/p-scarfe.aspx)  [Psychophysics Toolbox](http://peterscarfe.com/ptbtutorials.html) Tutorials  
+* [Student Developer Pack](https://education.github.com/pack) from githubEducation
+.. This amazing developer pack includes excellent student deals including;
+    - GitHub : unlimited private repositories for students!!!
+    - NameCheap A free .me website from 
+    - Unreal Engine:  Free complete suite
+* [Github guides](https://guides.github.com/)
+
 
 
