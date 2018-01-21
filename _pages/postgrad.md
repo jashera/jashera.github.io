@@ -38,17 +38,20 @@ author_profile: true
 .. Excellent password manager and form filler.  
 .. free with a university, school, or college address  
 * [Mendeley](https://www.mendeley.com)  
-.. Free reference and document manager
+.. Free reference and document manager  
+* [SharelaTeX](https://www.sharelatex.com)
+ - Online laTeX editor (a bit of a learning curve, but sooooo much better than word)
 
 
 ### Useful guides and tutorials
 * [Dr Peter Scarfe's](https://www.reading.ac.uk/Psychology/About/staff/p-scarfe.aspx)  [Psychophysics Toolbox](http://peterscarfe.com/ptbtutorials.html) Tutorials  
-* [Student Developer Pack](https://education.github.com/pack) from githubEducation
-.. This amazing developer pack includes excellent student deals including;
-    - GitHub : unlimited private repositories for students!!!
-    - NameCheap A free .me website from 
-    - Unreal Engine:  Free complete suite
-* [Github guides](https://guides.github.com/)
+* [SharelaTeX Guide](https://www.sharelatex.com/learn)
+* [Student Developer Pack](https://education.github.com/pack) from githubEducation  
+ - This amazing developer pack includes excellent student deals including;  
+    - GitHub : unlimited private repositories for students!!!  
+    - NameCheap A free .me website from   
+    - Unreal Engine:  Free complete suite  
+* [Github guides](https://guides.github.com/)  
 
 
 
