@@ -45,10 +45,10 @@ author_profile: true
 ### Useful guides and tutorials
 * [Dr Peter Scarfe's](https://www.reading.ac.uk/Psychology/About/staff/p-scarfe.aspx)  [Psychophysics Toolbox](http://peterscarfe.com/ptbtutorials.html) Tutorials  
 * [ShareLaTeX Guide](https://www.sharelatex.com/learn)
-* [Student Developer Pack](https://education.github.com/pack) from [githubEducation](https://education.github.com/)  -  This amazing developer pack has excellent student deals including;  
-    - GitHub : unlimited private repositories for students!!!  
-    - NameCheap A free .me website from   
-    - Unreal Engine:  Free complete suite  
+* [Student Developer Pack](https://education.github.com/pack) from [githubEducation](https://education.github.com/)  -  This amazing developer pack has excellent offers for students;  
+    - GitHub : unlimited private repositories for students!!!  (normally $7/month) 
+    - NameCheap : a free .me website  
+    - Unreal Engine:  Free complete suite for PC, console, mobile, web and VR  
 * [Github guides](https://guides.github.com/)  
 
 
