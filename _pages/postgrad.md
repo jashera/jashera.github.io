@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 [Advice](#advice-from-those-more-knowledgeable) from those more knowledgeable  
-[Funding](#funding...-show me-the-money!!!) show me the money!!!
+[Grants and Bursaries](#grants-and-bursaries) -- show me the money!!!
 
 
 
@@ -13,7 +13,7 @@ author_profile: true
 * [Advice to new PhD (grad) students](https://brittlab.uwaterloo.ca/2018/01/20/Grad-Student-Advice/) from [Derek Besner](https://uwaterloo.ca/psychology/people-profiles/derek-besner)
 * [This entire twitter thread](https://twitter.com/RobinMazumder/status/953397393604665344) from [Robin Mazumder](https://twitter.com/RobinMazumder)
 
-### Funding... show me the money!!!  
+### Grants and Bursaries  
 * [PsyPAG](http://www.psypag.co.uk/) is a national organisation for all psychology postgraduates based at UK Institutions.  
 .. Travel Grants, Research grants, Workshop grants  
 .. Plus you get to write articles for the [PsyPAG quarterly](http://www.psypag.co.uk/the-quarterly/)
