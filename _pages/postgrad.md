@@ -4,9 +4,16 @@ permalink: /postgrad/
 author_profile: true
 ---
 
-[Advice](#advice-from-those-more-knowledgeable) from those more knowledgeable  
-[Grants and Bursaries](#grants-and-bursaries) -- show me the money!!!
+[Advice](#advice-from-those-more-knowledgeable) -- from those more knowledgeable  
+[Grants and Bursaries](#grants-and-bursaries) -- show me the money!!!  
+[Free Software](#software) -- to make life easier!!!  
+[Guides and Tutorials](#useful-guides-and-tutorials)  
 
+
+
+
+
+---
 
 
 ### Advice from those more knowledgeable
@@ -26,7 +33,7 @@ author_profile: true
 
 
 
-### Software... to make life easier  
+### Software
 * [Roboform](https://www.roboform.com/promotions/college)  
 .. Excellent password manager and form filler.  
 .. free with a university, school, or college address  
