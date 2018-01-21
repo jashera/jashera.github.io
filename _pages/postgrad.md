@@ -15,8 +15,8 @@ author_profile: true
 .. Plus you get to write articles for the PsyPAG quarterly  
 .. [Download](http://www.psypag.co.uk/wp-content/uploads/2015/09/30th-Anniversary-Book.pdf) their handy postgraduate survival guide!
 * [Experimental Psychology Society](https://eps.ac.uk/)  
-.. Small Grants, Study Visit Grants, Research Workshops, Postgraduate and Postdoctoral Workshops, Grindley Grant, Undergraduate Research Bursary, EPS Carers Grant.  
-* [Guarantors of Brain](https://guarantorsofbrain.org/)
+.. Small Grants, Study Visit Grants, Research Workshops, Postgraduate and Postdoctoral Workshops, Grindley Grant, Undergraduate Research Bursary, EPS Carers Grant.    
+* [Guarantors of Brain](https://guarantorsofbrain.org/)  
 .. Travel Grants, fellowships, meeting/conference support
 
 
