@@ -29,3 +29,8 @@ author_profile: true
 * [Mendeley](https://www.mendeley.com)  
 .. Free reference and document manager
 
+
+### Useful guides and tutorials
+* [Dr Peter Scarfe's](https://www.reading.ac.uk/Psychology/About/staff/p-scarfe.aspx)  [Psychophysics Toolbox](http://peterscarfe.com/ptbtutorials.html) Tutorials  
+
+
