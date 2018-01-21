@@ -4,6 +4,10 @@ permalink: /postgrad/
 author_profile: true
 ---
 
+[Advice from those more knowledgeable](#advice-from-those-more-knowledgeable)
+[Funding... show me the money!!!](#funding...-show me-the-money!!!)
+
+
 
 ### Advice from those more knowledgeable
 * [Advice to new PhD (grad) students](https://brittlab.uwaterloo.ca/2018/01/20/Grad-Student-Advice/) from [Derek Besner](https://uwaterloo.ca/psychology/people-profiles/derek-besner)
