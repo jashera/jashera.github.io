@@ -4,8 +4,8 @@ permalink: /postgrad/
 author_profile: true
 ---
 
-[Advice from those more knowledgeable](#advice-from-those-more-knowledgeable)  
-[Funding](#funding...-show me-the-money!!!)  
+[Advice](#advice-from-those-more-knowledgeable) from those more knowledgeable  
+[Funding](#funding...-show me-the-money!!!) show me the money!!!
 
 
 
