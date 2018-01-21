@@ -34,14 +34,11 @@ author_profile: true
 
 
 ### Software
-* [Roboform](https://www.roboform.com/promotions/college)  
-.. Excellent password manager and form filler.  
-.. free with a university, school, or college address  
-* [Mendeley](https://www.mendeley.com)  
-.. Free reference and document manager  
-* [SharelaTeX](https://www.sharelatex.com)
- - Online laTeX editor (a bit of a learning curve, but sooooo much better than word)
- * [Authorea](https://www.authorea.com) for collaborative writing
+* [Roboform](https://www.roboform.com/promotions/college)  -- Excellent password manager and form filler.  
+    - free with a university, school, or college address   
+* [Mendeley](https://www.mendeley.com)  -- Free reference and document manager  
+* [SharelaTeX](https://www.sharelatex.com) -- Online laTeX editor (a bit of a learning curve, but sooooo much better than word)
+ * [Authorea](https://www.authorea.com) --for collaborative writing
 
 
 ### Useful guides and tutorials
