@@ -8,6 +8,7 @@ author_profile: true
 * [PsyPAG](http://www.psypag.co.uk/) is a national organisation for all psychology postgraduates based at UK Institutions.  
 .. Travel Grants, Research grants, Workshop grants  
 .. Plus you get to write articles for the PsyPAG quarterly  
+.. [Download](http://www.psypag.co.uk/wp-content/uploads/2015/09/30th-Anniversary-Book.pdf) The Postgraduate survival guide!
 
 * [Experimental Psychology Society](https://eps.ac.uk/)  
 .. Small Grants, Study Visit Grants, Research Workshops, Postgraduate and Postdoctoral Workshops, Grindley Grant, Undergraduate Research Bursary, EPS Carers Grant.  
@@ -19,4 +20,5 @@ author_profile: true
 .. Excellent password manager and form filler.  
 .. free with a university, school, or college address  
 * [Mendeley](https://www.mendeley.com)  
+.. Free reference and document manager
 
