@@ -19,6 +19,7 @@ author_profile: true
 ### Advice from those more knowledgeable
 * [Advice to new PhD (grad) students](https://brittlab.uwaterloo.ca/2018/01/20/Grad-Student-Advice/) from [Derek Besner](https://uwaterloo.ca/psychology/people-profiles/derek-besner)
 * [This entire twitter thread](https://twitter.com/RobinMazumder/status/953397393604665344) from [Robin Mazumder](https://twitter.com/RobinMazumder)
+* [Twitter for Academics](https://medium.com/@cMadan/on-the-benefits-of-twitter-5af59158e4e2) from [Christopher Madan, PhD](https://medium.com/@cMadan)
 
 ### Grants and Bursaries  
 * [PsyPAG](http://www.psypag.co.uk/) is a national organisation for all psychology postgraduates based at UK Institutions.  
