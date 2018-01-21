@@ -4,6 +4,10 @@ permalink: /postgrad/
 author_profile: true
 ---
 
+
+### Advice from those more knowledgeable
+* [Advice to grad students](https://brittlab.uwaterloo.ca/2018/01/20/Grad-Student-Advice/) from [Derek Besner](https://uwaterloo.ca/psychology/people-profiles/derek-besner)
+
 ### Funding... show me the money!!!  
 * [PsyPAG](http://www.psypag.co.uk/) is a national organisation for all psychology postgraduates based at UK Institutions.  
 .. Travel Grants, Research grants, Workshop grants  
