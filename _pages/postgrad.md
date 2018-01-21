@@ -37,13 +37,14 @@ author_profile: true
 * [Roboform](https://www.roboform.com/promotions/college)  -- Excellent password manager and form filler.  
     - free with a university, school, or college address   
 * [Mendeley](https://www.mendeley.com)  -- Free reference and document manager  
-* [SharelaTeX](https://www.sharelatex.com) -- Online laTeX editor (a bit of a learning curve, but sooooo much better than word)
+* [ShareLaTeX](https://www.sharelatex.com) -- Online laTeX editor 
+    - (a bit of a learning curve, but sooooo much better than word)
  * [Authorea](https://www.authorea.com) --for collaborative writing
 
 
 ### Useful guides and tutorials
 * [Dr Peter Scarfe's](https://www.reading.ac.uk/Psychology/About/staff/p-scarfe.aspx)  [Psychophysics Toolbox](http://peterscarfe.com/ptbtutorials.html) Tutorials  
-* [SharelaTeX Guide](https://www.sharelatex.com/learn)
+* [ShareLaTeX Guide](https://www.sharelatex.com/learn)
 * [Student Developer Pack](https://education.github.com/pack) from [githubEducation](https://education.github.com/)  -  This amazing developer pack has excellent student deals including;  
     - GitHub : unlimited private repositories for students!!!  
     - NameCheap A free .me website from   
