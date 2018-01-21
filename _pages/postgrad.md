@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 [Advice from those more knowledgeable](#advice-from-those-more-knowledgeable)  
-[Funding... show me the money!!!](#funding...-show me-the-money!!!)  
+[Funding](#funding...-show me-the-money!!!)  
 
 
 
