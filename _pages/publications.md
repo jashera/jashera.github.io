@@ -6,10 +6,9 @@ author_profile: true
 
 
 ## Articles
-
-* Asher, JM, (2017), [Perceptual learning for clinical populations with visual deficits after stroke"](http://www.psypag.co.uk/wp-content/uploads/2013/06/PsyPag-102.pdf#page=47), *Psypag Quarterly*,102: 45-50
+Asher, J.M.; O’Hare, L.; Romei, V.; Hibbard, P.B. (2018) [Typical Lateral Interactions, but Increased Contrast Sensitivity, in Migraine-With-Aura.](http://www.mdpi.com/2411-5150/2/1/7) Vision 2018, 2, 7. 
+* Asher, JM, (2017), [Perceptual learning for clinical populations with visual deficits after stroke](http://www.psypag.co.uk/wp-content/uploads/2013/06/PsyPag-102.pdf#page=47), *Psypag Quarterly*,102: 45-50
 *  Asher, JM, Romei V, Hibbard PB, *(in preparation)* On perceptual learning and transfer of global motion  
-* Asher, JM, O'Hare L, Romei V, Hibbard PB, *(under review)*, Normal lateral interactions, but increased contrast sensitivity, in migraine with aura
 * Hibbard, PB, Goutcher, R, Scarfe, P, Hunter, DW, Khan, N & Asher, JM *(in preparation)*, Optimal encoding of binocular images by cortical neurons
 * Hibbard PB, Asher, JM, *(in preparation)*, The effect of edge separation and orientation on the perception of depth in anticorrelated random dot stereograms" 
 
