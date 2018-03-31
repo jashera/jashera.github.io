@@ -1,4 +1,4 @@
----
+(---
 title: "Conferences"
 permalink: /conferences/
 author_profile: true
@@ -7,7 +7,7 @@ author_profile: true
 
 ## Talks
 
-* "No external feedback is needed for perceptual learning to occur in local and global orientation tasks", [European Conference on Visual Perception](http://www.ecvp.org/2017/), Berlin,  August 2017 [Abstract](http://journals.sagepub.com/page/pec/collections/ecvp-abstracts/index/ecvp-2017)  
+* "No external feedback is needed for perceptual learning to occur in local and global orientation tasks", [European Conference on Visual Perception](http://www.ecvp.org/2017/), Berlin,  August 2017 [Abstract](http://journals.sagepub.com/page/pec/collections/ecvp-abstracts/index/ecvp-2017))  
 * "External feedback is needed for perceptual learning of global motion", [Applied Vision Association](http://www.theava.net/) and [Scottish Vision Group](http://svg.psy.gla.ac.uk/) Conference, Peebles, Edinburgh, April 2016 ([Abstract](http://journals.sagepub.com/doi/pdf/10.1177/0301006616674873))
 
 
