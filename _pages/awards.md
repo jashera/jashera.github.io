@@ -6,6 +6,8 @@ redirect_from:
   - /awards
 ---
 
+2018 -  Conference Travel Award - [AVA Travel Award](http://www.theava.net/awards/travel.php)
+
 2017 -  Conference Bursary - [EPS Grindley Grant](http://www.eps.ac.uk/index.php/grindley-grants-for-conference-attendance)
 
 2016 - Conference Bursary - European Conference on Visual Perception, Barcelona
