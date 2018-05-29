@@ -8,6 +8,7 @@ author_profile: true
 [Grants and Bursaries](#grants-and-bursaries) -- show me the money!!!  
 [Free Software](#software) -- to make life easier!!!  
 [Guides and Tutorials](#useful-guides-and-tutorials)  
+[Blogs that are not to be missed](#Blogs-that-are-not-to-be-missed)
 
 
 
@@ -53,4 +54,5 @@ author_profile: true
 * [Github guides](https://guides.github.com/)  
 
 
-
+### Blogs that are not to be missed
+* [Dr Dr Catherine Pope] (https://catherinepope.com) Freelance research & writing skills trainer with lots of great tips  
