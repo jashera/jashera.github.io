@@ -30,7 +30,10 @@ author_profile: true
 * [Experimental Psychology Society](https://eps.ac.uk/)  
     - Small Grants, Study Visit Grants, Research Workshops, Postgraduate and Postdoctoral Workshops, Grindley Grant, Undergraduate Research Bursary, EPS Carers Grant.    
 * [Guarantors of Brain](https://guarantorsofbrain.org/)  
-    - Travel Grants, fellowships, meeting/conference support
+    - Travel Grants, fellowships, meeting/conference support  
+* [Applied Vision Association](http://www.theava.net/awards/travel.php) - Awards for Vision Scientists
+    - Including the amazing [Tom Troscianko Memorial Award](http://www.theava.net/awards/troscianko.php)
+    - and the AVA Travel Award which I proudly recieved in May 2018 to fund my VSS Conference  
 
 
 
