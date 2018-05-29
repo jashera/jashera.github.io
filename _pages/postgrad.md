@@ -55,4 +55,4 @@ author_profile: true
 
 
 ### Blogs that are not to be missed
-* [Dr Dr Catherine Pope] (https://catherinepope.com) Freelance research & writing skills trainer with lots of great tips  
+* [Dr Dr Catherine Pope](https://catherinepope.com) Freelance research & writing skills trainer with lots of great tips  
