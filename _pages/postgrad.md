@@ -45,6 +45,7 @@ author_profile: true
 * [ShareLaTeX](https://www.sharelatex.com) -- Web-based LaTeX editor 
     - (a bit of a learning curve, but sooooo much better than word)
  * [Authorea](https://www.authorea.com) --for collaborative writing
+ * [Brave Browser](https://brave.com/download/) --  Blocks all ads!!! 
 
 
 ### Useful guides and tutorials
