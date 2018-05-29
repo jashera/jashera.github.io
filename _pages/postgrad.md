@@ -56,3 +56,5 @@ author_profile: true
 
 ### Blogs that are not to be missed
 * [Dr Dr Catherine Pope](https://catherinepope.com) Freelance research & writing skills trainer with lots of great tips  
+* [Explorations of Style](https://explorationsofstyle.com/) A Blog about Academic Writing (ps writers block)
+
