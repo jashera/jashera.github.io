@@ -33,7 +33,7 @@ author_profile: true
     - Travel Grants, fellowships, meeting/conference support  
 * [Applied Vision Association](http://www.theava.net/awards/travel.php) - Awards for Vision Scientists
     - Including the amazing [Tom Troscianko Memorial Award](http://www.theava.net/awards/troscianko.php)
-    - and the AVA Travel Award which I proudly recieved in May 2018 to fund my VSS Conference  
+    - and the [AVA Travel Award](http://www.theava.net/awards/travel.php) which I proudly recieved in May 2018 to fund my VSS Conference  
 
 
 
