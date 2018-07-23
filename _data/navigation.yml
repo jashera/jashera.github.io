@@ -7,8 +7,8 @@ main:
     url: /conferences/  
     
 
-#  - title: "Teaching"
-#    url: /teaching/    
+  - title: "Teaching"
+    url: /teaching/    
     
   - title: "Awards"
     url: /awards/   
@@ -17,7 +17,7 @@ main:
     url: /postgrad/
     
    - title: "Resources"
- url: /resources/ 
+     url: /resources/ 
         
 #  - title: "Blog Posts"
 #    url: /year-archive/
