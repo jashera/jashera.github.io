@@ -13,8 +13,11 @@ main:
   - title: "Awards"
     url: /awards/   
     
-  - title: "Resources"
+  - title: "Ress"
     url: /postgrad/
+    
+   - title: "Resources"
+ url: /resources/ 
         
 #  - title: "Blog Posts"
 #    url: /year-archive/
