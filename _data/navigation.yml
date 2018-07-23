@@ -1,5 +1,6 @@
 # main links links
 main:
+main:
   - title: "Publications"
     url: /publications/
 
@@ -25,6 +26,3 @@ main:
 #  - title: "Musings"
 #   url: /cv/
 
-
-  - title: "Contact"
-    url: /contact/   
