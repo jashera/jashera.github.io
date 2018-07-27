@@ -7,6 +7,28 @@ author_profile: true
 [Please see my researchgate profile for the most up to date list of my publications](https://www.researchgate.net/profile/Jordi_Asher)
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Articles
 * Asher, JM. Hibbard, PB,  *(in review)*, [The effect of edge separation and orientation on the perception of depth in anticorrelated random dot stereograms" ](https://www.biorxiv.org/content/early/2018/07/19/372169)
 * Asher, JM. Romei, V. Hibbard, PB *(in review)* [Spatial frequency tuning of perceptual learning and transfer in global motion](https://www.biorxiv.org/content/early/2018/07/19/372458)
