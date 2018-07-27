@@ -15,14 +15,7 @@ main:
     
   - title: "Resources"
     url: /postgrad/
-        
-#  - title: "Blog Posts"
-#    url: /year-archive/
     
-#  - title: "Musings"
-#   url: /cv/
-
-
-  - title: "Contact"
- url: /contact/   
+- title: "Contact"
+  url: /contact/   
 
