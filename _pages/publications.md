@@ -4,6 +4,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+[Please see my researchgate profile for the most up to date list of my publications](https://www.researchgate.net/profile/Jordi_Asher)
+
 
 ## Articles
 * Hibbard PB, Asher, JM, *(in review)*, The effect of edge separation and orientation on the perception of depth in anticorrelated random dot stereograms" *Scientific Reports*,
@@ -20,7 +22,6 @@ author_profile: true
 * Asher, JM, O'Hare L, Romei V, Hibbard PB, ["Normal lateral interactions, but increased contrast sensitivity, in migraine with aura"](http://journals.sagepub.com/doi/abs/10.1177/0301006617710756)  *Perception*, Vol 46(10) suppl, 1205 - 1238 
 * Asher, JM, Romei V, Hibbard PB, (2017) ["External feedback is needed for perceptual learning of global motion"](https://doi.org/10.1177/0301006616674873), *Perception*, Vol 46(2) suppl, 230
 * Asher, JM, Romei V, Hibbard PB, (2016) ["Perceptual learning for global motion is tuned for spatial frequency"](https://doi.org/10.1177/0301006616671273), *Perception*, Vol 45(2) suppl, 317-318
-
 
 
 
