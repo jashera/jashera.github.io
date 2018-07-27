@@ -6,18 +6,23 @@ main:
   - title: "Conferences"
     url: /conferences/  
     
+
+ - title: "Teaching"
+    url: /teaching/    
+    
   - title: "Awards"
     url: /awards/   
     
   - title: "Resources"
     url: /postgrad/
-    
- #  - title: "Resources"
- #    url: /resources/ 
         
 #  - title: "Blog Posts"
 #    url: /year-archive/
     
 #  - title: "Musings"
 #   url: /cv/
+
+
+  - title: "Contact"
+url: /contact/   
 
