@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Lecturer in Psychology in the Essex Pathways Department at the [University of Essex](https://www.essex.ac.uk).  
-
-and, a final year PhD student working with [Professor Paul Hibbard](https://www1.essex.ac.uk/psychology/staff/profile.aspx?ID=3193) and [Dr Loes van Dam](https://www1.essex.ac.uk/psychology/staff/profile.aspx?ID=4959) in the Department of Psychology at the [University of Essex](https://www.essex.ac.uk).
+I am a Lecturer in Psychology in the [Essex Pathways Department]{https://www.essex.ac.uk/departments/essex-pathways} at the [University of Essex](https://www.essex.ac.uk), and, a final year PhD student working with [Professor Paul Hibbard](https://www1.essex.ac.uk/psychology/staff/profile.aspx?ID=3193) and [Dr Loes van Dam](https://www1.essex.ac.uk/psychology/staff/profile.aspx?ID=4959) in the Department of Psychology at the [University of Essex](https://www.essex.ac.uk).
 
 
 
