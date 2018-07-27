@@ -8,16 +8,7 @@ author_profile: true
 
 
 
-
-Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-
-Reference-style: 
-![alt text][logo]
-
-[logo]: https://github.com/jashera/jashera.github.io/blob/master/images/rgjm.jpg "Logo Title Text 2"
-
-
+[<img src="https://github.com/jashera/jashera.github.io/blob/master/images/rgjm.jpg ">](https://www.researchgate.net/profile/Jordi_Asher)
 
 
 
