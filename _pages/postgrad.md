@@ -40,7 +40,7 @@ author_profile: true
 
 ### Software
 * [Roboform](https://www.roboform.com/promotions/college)  -- Excellent password manager and form filler.  
-    - free with a university, school, or college address   
+    - free with a university / school/ college address for the first year, and half-price as long as you have an academic address after that  
 * [Mendeley](https://www.mendeley.com)  -- Free reference and document manager  
 * [ShareLaTeX](https://www.sharelatex.com) -- Web-based LaTeX editor 
     - (a bit of a learning curve, but sooooo much better than word)
