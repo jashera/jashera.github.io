@@ -6,7 +6,7 @@ redirect_from:
   - /awards
 ---
 
-2019 - EIRA (Enabling Innovation: Research to Application) Digital Creative Grant
+2019 - EIRA [(Enabling Innovation: Research to Application)](http://easternarc.ac.uk/eira/) Digital Creative Grant
 
 2018 -  Conference Travel Award - [AVA Travel Award](http://www.theava.net/awards/travel.php)
 
