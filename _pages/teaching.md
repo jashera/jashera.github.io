@@ -5,10 +5,10 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Teaching
-Introduction to Psychology - Year 0
-Research Methods           - Year 0
+## Current
+[Essex Pathways](https://www.essex.ac.uk/departments/essex-pathways)  - Introduction to Psychology - Year 0  
+[Essex Pathways](https://www.essex.ac.uk/departments/essex-pathways)  - Research Methods           - Year 0  
 
 
-## Graduate Laboratory Assistant
-2018 - Statistics - Year 2
+## Previous
+[Psychology](https://www.essex.ac.uk/departments/psychology) - Statistics - Year 2
