@@ -26,6 +26,6 @@ main:
 #   url: /cv/
 
 
-#- title: "Contact"
- # url: /contact/   
+- title: "Contact"
+  url: /contact/   
 
