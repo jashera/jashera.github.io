@@ -12,7 +12,7 @@ I am a Lecturer in Psychology in the [Essex Pathways Department](https://www.ess
 
 
 
-I am currently working on my PhD thesis, which is titled "Confidence and feedback in visual perceptual learning". I am investigating perceptual learning using psychophysical methods and specifically interested in the interaction between learning and the presence (or absence) of trial by trial feedback.  
+I am currently working on a project grant recently awarded by Eastern Arc (EIRA), winvestigating ways technology such as AR and VR can help people with visual field deficits.  
 
 ## Other Research Interests
 * Linear and Non-Linear Mixed Effects Models
