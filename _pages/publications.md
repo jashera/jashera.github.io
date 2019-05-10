@@ -9,7 +9,7 @@ author_profile: true
 
 ## Articles
 * Asher, JM & Hibbard, PB. (2018). [First- and second-order contributions to depth perception in anti-correlated random dot stereograms](https://www.nature.com/articles/s41598-018-32500-4). Scientific Reports. 8. 10.1038/s41598-018-32500-4. 
-* Asher, JM. Romei, V. Hibbard, PB (2018) [Spatial frequency tuning of perceptual learning and transfer in global motion]. bioRxiv 372458;(https://www.biorxiv.org/content/early/2018/07/19/372458)
+* Asher, JM. Romei, V. Hibbard, PB (2018) [Spatial frequency tuning of perceptual learning and transfer in global motion](https://www.biorxiv.org/content/early/2018/07/19/372458). bioRxiv 372458;
 *  Asher, J.M.; O’Hare, L.; Romei, V.; Hibbard, P.B. (2018) [Typical Lateral Interactions, but Increased Contrast Sensitivity, in Migraine-With-Aura.](http://www.mdpi.com/2411-5150/2/1/7) Vision, 2, 7. 
 * Asher, JM, (2017), [Perceptual learning for clinical populations with visual deficits after stroke](http://www.psypag.co.uk/wp-content/uploads/2013/06/PsyPag-102.pdf#page=47), *Psypag Quarterly*,102: 45-50
 * Hibbard, PB, Goutcher, R, Scarfe, P, Hunter, DW, Khan, N & Asher, JM *(in preparation)*, Optimal encoding of binocular images by cortical neurons
