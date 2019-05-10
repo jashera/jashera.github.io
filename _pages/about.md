@@ -12,7 +12,7 @@ I am a Lecturer in Psychology in the [Essex Pathways Department](https://www.ess
 
 
 
-I am currently working on a project grant recently awarded by Eastern Arc (EIRA), winvestigating ways technology such as AR and VR can help people with visual field deficits.  
+I am currently working on a project grant recently awarded by Eastern Arc (EIRA), investigating ways technology such as AR and VR can help people with visual field deficits.  
 
 ## Other Research Interests
 * Linear and Non-Linear Mixed Effects Models
