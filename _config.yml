@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Jordi M. Asher"
+title                    : "Dr. Jordi M. Asher"
 title_separator          : "-"
-name                     : &name "Jordi M. Asher"
-description              : &description "Lecturer in Psychology & Post Doctoral Researcher"
+name                     : &name "Dr. Jordi M. Asher"
+description              : &description "Lecturer in Psychology & Senior Research Officer"
 url                      : https://jashera.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jashera/jashera.github.io"
