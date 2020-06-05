@@ -4,23 +4,13 @@ permalink: /postgrad/
 author_profile: true
 ---
 
-[Advice](#advice-from-those-more-knowledgeable) -- from those more knowledgeable  
+
 [Grants and Bursaries](#grants-and-bursaries) -- show me the money!!!  
 [Free Software](#software) -- to make life easier!!!  
 [Guides and Tutorials](#useful-guides-and-tutorials)  
-[Blogs that are not to be missed](#Blogs-that-are-not-to-be-missed)
 
 
 
-
-
----
-
-
-### Advice from those more knowledgeable
-* [Advice to new PhD (grad) students](https://brittlab.uwaterloo.ca/2018/01/20/Grad-Student-Advice/) from [Derek Besner](https://uwaterloo.ca/psychology/people-profiles/derek-besner)
-* [This entire twitter thread](https://twitter.com/RobinMazumder/status/953397393604665344) from [Robin Mazumder](https://twitter.com/RobinMazumder)
-* [Twitter for Academics](https://medium.com/@cMadan/on-the-benefits-of-twitter-5af59158e4e2) from [Christopher Madan, PhD](https://medium.com/@cMadan)
 
 ### Grants and Bursaries  
 * [PsyPAG](http://www.psypag.co.uk/) is a national organisation for all psychology postgraduates based at UK Institutions.  
@@ -35,30 +25,23 @@ author_profile: true
     - Including the amazing [Tom Troscianko Memorial Award](http://www.theava.net/awards/troscianko.php)
     - and the [AVA Travel Award](http://www.theava.net/awards/travel.php) which I proudly recieved in May 2018 to fund my VSS Conference  
 
-
-
-
 ### Software
 * [Roboform](https://www.roboform.com/promotions/college)  -- Excellent password manager and form filler.  
     - free with a university / school/ college address for the first year, and half-price as long as you have an academic address after that  
 * [Mendeley](https://www.mendeley.com)  -- Free reference and document manager  
-* [ShareLaTeX](https://www.sharelatex.com) -- Web-based LaTeX editor 
+* [Overleaf](https://www.overleaf.com) -- Web-based LaTeX editor 
     - (a bit of a learning curve, but sooooo much better than word)
  * [Authorea](https://www.authorea.com) --for collaborative writing
  * [Brave Browser](https://brave.com/download/) --  Blocks all ads!!! 
 
 
 ### Useful guides and tutorials
+* [VPixx Online Classroom And Library](https://vpixx.com/vocal/)
 * [Dr Peter Scarfe's](https://www.reading.ac.uk/Psychology/About/staff/p-scarfe.aspx)  [Psychophysics Toolbox](http://peterscarfe.com/ptbtutorials.html) Tutorials  
-* [ShareLaTeX Guide](https://www.sharelatex.com/learn)
 * [Student Developer Pack](https://education.github.com/pack) from [githubEducation](https://education.github.com/)  -  This amazing developer pack has excellent offers for students.. including:  
     - GitHub : unlimited private repositories for students!!!  (normally $7/month) 
     - NameCheap : a free .me website  
     - Unreal Engine:  Free complete suite for PC, console, mobile, web and VR  
 * [Github guides](https://guides.github.com/)  
 
-
-### Blogs that are not to be missed
-* [Dr Dr Catherine Pope](https://catherinepope.com) Freelance research & writing skills trainer with lots of great tips  
-* [Explorations of Style](https://explorationsofstyle.com/) A Blog about Academic Writing (ps writers block)
 
