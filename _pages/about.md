@@ -12,7 +12,7 @@ I am a post doctoral researcher at the University of Essex,  investigating the u
 
 
 
-The project is funded by grants awarded by;
+The project is funded by grants awarded by;  
 the [SETsquared partnership](https://www.setsquared.co.uk/about-us/),   
 [Eastern Arc (EIRA)](http://easternarc.ac.uk/eira/) and   
 the [Higher Education Innovation Fund.](https://re.ukri.org/knowledge-exchange/the-higher-education-innovation-fund-heif/)    
