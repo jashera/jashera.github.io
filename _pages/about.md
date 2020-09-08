@@ -8,7 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am currently in position as post doctoral researcher investigating the use of Augmented Reality for visual impairment.  The project is funded by grants awarded by [Eastern Arc (EIRA)](http://easternarc.ac.uk/eira/) and the Higher Education Innovation Fund.  I completed my PhD in August 2019 working with [Professor Paul Hibbard](https://www1.essex.ac.uk/psychology/staff/profile.aspx?ID=3193) and [Dr Loes van Dam](https://www1.essex.ac.uk/psychology/staff/profile.aspx?ID=4959) in the [Department of Psychology](https://www.essex.ac.uk/departments/psychology) at the [University of Essex](https://www.essex.ac.uk).
+I am a post doctoral researcher at the University of Essex,  investigating the use of Augmented Reality (AR) specifically for individuals with visual field loss.  We are working on developing a software solution for  readily available consumer AR headsets (i.e. smart glasses). We are currently trying to understand the commercial need for our technologies. If you are interested in chatting with me, please get in touch.
+
+
+
+The project is funded by grants awarded by the [SETsquared partnership](https://www.setsquared.co.uk/about-us/), [Eastern Arc (EIRA)](http://easternarc.ac.uk/eira/) and the Higher Education Innovation Fund.  
+
 
 
 ## Other Research Interests
