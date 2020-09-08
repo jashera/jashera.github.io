@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a post doctoral researcher at the University of Essex,  investigating the use of Augmented Reality (AR) specifically for individuals with visual field loss.  We are working on developing a software solution for  readily available consumer AR headsets (i.e. smart glasses). We are currently trying to understand the commercial need for our technologies. If you are interested in chatting with me, please get in touch.
+I am a post doctoral researcher at the University of Essex,  investigating the use of Augmented Reality (AR) specifically for individuals with visual field loss.  We are working on developing a software solution for  readily available consumer AR headsets (i.e. smart glasses). We are currently trying to understand the commercial need for our technologies. If you are interested in chatting with me about this, please get in touch.
 
 
 
