@@ -8,6 +8,7 @@ author_profile: true
 
 
 ## Articles
+* Asher, J. M., & Hibbard, P. B. (2020). [No effect of feedback, level of processing or stimulus presentation protocol on perceptual learning when easy and difficult trials are interleaved.](https://www.sciencedirect.com/science/article/abs/pii/S0042698920301310) *Vision Research*, 176, 100-117.
 * Asher, J. M., Romei, V., & Hibbard, P. B. (2019). [Spatial Frequency Tuning and Transfer of Perceptual Learning for Motion Coherence Reflects the Tuning Properties of Global Motion Processing](https://www.mdpi.com/2411-5150/3/3/44). *Vision*, 3(3), 44.
 * Asher, JM & Hibbard, PB. (2018). [First- and second-order contributions to depth perception in anti-correlated random dot stereograms](https://www.nature.com/articles/s41598-018-32500-4). *Scientific Reports*. 8. 10.1038/s41598-018-32500-4. 
 * Asher, JM. Romei, V. Hibbard, PB (2018) [Spatial frequency tuning of perceptual learning and transfer in global motion](https://www.biorxiv.org/content/early/2018/07/19/372458). *bioRxiv* 372458;
