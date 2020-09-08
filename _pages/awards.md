@@ -6,6 +6,8 @@ redirect_from:
   - /awards
 ---
 
+2020 - [ICURe SETsquared Partnership](https://www.setsquared.co.uk/programme/icure-programme/)
+
 2020 - Higher Education Innovation Fund
 
 2019 - EIRA [(Enabling Innovation: Research to Application)](http://easternarc.ac.uk/eira/) Digital Creative Grant
