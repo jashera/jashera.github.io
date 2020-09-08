@@ -6,7 +6,7 @@ redirect_from:
   - /awards
 ---
 
-2020 - [ICURe SETsquared Partnership](https://www.setsquared.co.uk/programme/icure-programme/)
+2020 - [ICURe SETsquared Partnership](https://www.setsquared.co.uk/programme/icure-programme/) award
 
 2020 - Higher Education Innovation Fund
 
