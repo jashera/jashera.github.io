@@ -7,8 +7,8 @@ main:
     url: /conferences/  
     
 
-  #   - title: "Teaching"
-  #     url: /teaching/    
+     - title: "areye"
+       url: /areye/    
     
   - title: "Awards"
     url: /awards/   
