@@ -23,7 +23,7 @@ the [Higher Education Innovation Fund.](https://re.ukri.org/knowledge-exchange/t
 * Linear and Non-Linear Mixed Effects Models
 * Metacognition in Learning
 * Perceptual differences in Migraine
-* Perceptual learning of depth 
+* Binocular Depth Perception
 * Virtual and Augmented reality
 * Re-entrant connections (feedback connections) in the visual cortex
 
