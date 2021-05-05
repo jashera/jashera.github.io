@@ -6,7 +6,7 @@ redirect_from:
   - /awards
 ---
 
-2021 - [ICURe Praxis Auril] - Collaborative Research Award (UKRI Innovate UK)
+2021 - ICURe Praxis Auril - Collaborative Research Award (UKRI Innovate UK)
 
 2020 - [ICURe SETsquared Partnership](https://www.setsquared.co.uk/programme/icure-programme/) Award (UKRI Innovate UK)
 
