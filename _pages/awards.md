@@ -10,6 +10,8 @@ redirect_from:
 
 2020 - [ICURe SETsquared Partnership](https://www.setsquared.co.uk/programme/icure-programme/) Award (UKRI Innovate UK)
 
+2020 - v-VSS - Travel Award
+
 2020 - Higher Education Innovation Fund
 
 2019 - EIRA [(Enabling Innovation: Research to Application)](http://easternarc.ac.uk/eira/) Digital Creative Grant
