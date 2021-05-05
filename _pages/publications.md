@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-
+<font size="3"> 
 
 
 ## Articles
@@ -44,3 +44,4 @@ author_profile: true
 
 
 
+</font> 
