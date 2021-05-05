@@ -18,7 +18,7 @@ author_profile: true
 
 
 ## Articles in Review
-* O’Hare, L, Hibbard PB, & Asher, JM. Migraine visual aura and cortical spreading depression- linking mathematical models to empirical evidence, Vision: Migraine Special Edition: March 2021 [preprint](https://www.preprints.org/manuscript/202104.0046/v1)
+* O’Hare, L, Hibbard PB, & Asher, JM. Migraine visual aura and cortical spreading depression- linking mathematical models to empirical evidence, Vision: Migraine Special Edition: March 2021 [(preprint available)](https://www.preprints.org/manuscript/202104.0046/v1)
 * Asher, JM, O’Hare, L, & Hibbard PB. Is it time to abandon contrast sensitivity as a measure of cortical hyperexcitability in migraine-with-aura?Vision: Migraine Special Edition: March 2021
 * Webb, AL,Asher, JM,& Hibbard, PB. Saccadic latency initation is sensitive to the spatialfrequency and contrast content of facial expressions. PlosOne
 
